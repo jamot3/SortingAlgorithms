@@ -1,4 +1,4 @@
-### Practice problem from chapter 10 of Chris Pine's "Learn to Program".
+### I BELIEVE this is an implentation of selection sort. 
 
 def sort array 
     recursive_sort array, []
